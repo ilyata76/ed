@@ -1,3 +1,12 @@
 [submodule "ed.u1337.sql"]
 	path = ed.u1337.sql
 	url = git@github.com:ilyata76/ed.u1337.sql.git
+[submodule "ed.u1337.scheme"]
+	path = ed.u1337.scheme
+	url = git@github.com:ilyata76/ed.u1337.scheme.git
+[submodule "ed.u1337.python"]
+	path = ed.u1337.python
+	url = git@github.com:ilyata76/ed.u1337.python.git
+[submodule "ed.uniyar.cpp"]
+	path = ed.uniyar.cpp
+	url = git@github.com:ilyata76/ed.uniyar.cpp.git
