@@ -1,0 +1,3 @@
+[submodule "ed.u1337.sql"]
+	path = ed.u1337.sql
+	url = git@github.com:ilyata76/ed.u1337.sql.git
