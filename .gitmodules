@@ -10,3 +10,6 @@
 [submodule "ed.uniyar.cpp"]
 	path = ed.uniyar.cpp
 	url = git@github.com:ilyata76/ed.uniyar.cpp.git
+[submodule "ed.html.css"]
+	path = ed.html.css
+	url = git@github.com:ilyata76/ed.html.css.git
